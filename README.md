@@ -120,11 +120,14 @@ Repositories from your work/company
 
 ```
 💡 Idea 
-Track projects that already started but need to continue/improve
+Repositories that gives you ideas
 ```
 </details>
 
 # Contribute
+
+<details>
+  <summary>You can contribute to this repository by Pull Request or Issue! How?</summary>
 
 ## Add list ideas by PR
 
@@ -134,6 +137,7 @@ Track projects that already started but need to continue/improve
 
 ## Add list ideas from the issues
 
-1. Create a new issue with your ideas
+1. Create a new issue with your ideas using the markdown syntax
+</details>
 
 
